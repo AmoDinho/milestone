@@ -1,53 +1,97 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
+<!-- This site is based off of the partical js library link: 'http://vincentgarreau.com/particles.js/' -->
 <head>
   <meta charset="utf-8">
   <title>Oscar</title>
-  <!--<meta name="description" content="particles.js is a lightweight JavaScript library for creating particles.">-->
-  <!--<meta name="author" content="Vincent Garreau" />-->
+  <meta name="description" content="Oscar is a product to help transform the distribution of artifical limbs">
+  <meta name="author" content="Amo Moloko" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <link rel="stylesheet" media="screen" href="css/style.css">
 </head>
 <body>
 
-<!-- count particles -->
+
+
+
+
+
+
+     
+      
+        <!-- particles.js container -->
+        <div id="particles-js">
+
+         
+
+
+
+                <!-- NAv Bar  -->
+                <!-- NAV CONTAINER-->
+            <header>
+                <div class="nav">
+                    <ul>
+                        <li class="home"><a href="#">Oscar</a></li>
+                    </ul>
+                </div>
+                <div class="nav">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class="home"><a href="#">About</a></li>
+                        <li class="home"><a href="#">Milestone</a></li>
+                    </ul>
+                </div>
+            </header>
+
+                <!--- PRIMARY PAGE LAYOUT    -->
+                <!---  H1 heading   -->
+                <!---  paragraph    -->
+                <!--- Inline form and button   -->
+                <!--   Footer   -->
+
+      
+
+
+</div>
+
+
+
+
+
+
+        <!-- scripts -->
+        <script src="../particles.js"></script>
+        <script src="js/app.js"></script>
+
+
+
+        <!-- stats.js -->
+        <!--<script src="js/lib/stats.js"></script>
+        <script>
+          var count_particles, stats, update;
+          stats = new Stats;
+          stats.setMode(0);
+          stats.domElement.style.position = 'absolute';
+          stats.domElement.style.left = '0px';
+          stats.domElement.style.top = '0px';
+          document.body.appendChild(stats.domElement);
+          count_particles = document.querySelector('.js-count-particles');
+          update = function() {
+            stats.begin();
+            stats.end();
+            if (window.pJSDom[0].pJS.particles && window.pJSDom[0].pJS.particles.array) {
+              count_particles.innerText = window.pJSDom[0].pJS.particles.array.length;
+            }
+            requestAnimationFrame(update);
+          };
+          requestAnimationFrame(update);
+        </script>-->
+</body>
+</html>
+
+<!-- End of document -->
+
+
+  <!-- count particles -->
 <!--<div class="count-particles">
   <span class="js-count-particles">--</span> particles
 </div>-->
-
-<!-- particles.js container -->
-<div id="particles-js"></div>
-
-<!-- scripts -->
-<script src="../particles.js"></script>
-<script src="js/app.js"></script>
-
-
-
-
-
-
-<!-- stats.js -->
-<!--<script src="js/lib/stats.js"></script>
-<script>
-  var count_particles, stats, update;
-  stats = new Stats;
-  stats.setMode(0);
-  stats.domElement.style.position = 'absolute';
-  stats.domElement.style.left = '0px';
-  stats.domElement.style.top = '0px';
-  document.body.appendChild(stats.domElement);
-  count_particles = document.querySelector('.js-count-particles');
-  update = function() {
-    stats.begin();
-    stats.end();
-    if (window.pJSDom[0].pJS.particles && window.pJSDom[0].pJS.particles.array) {
-      count_particles.innerText = window.pJSDom[0].pJS.particles.array.length;
-    }
-    requestAnimationFrame(update);
-  };
-  requestAnimationFrame(update);
-</script>-->
-
-</body>
-</html>
