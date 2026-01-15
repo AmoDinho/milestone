@@ -1,0 +1,317 @@
+[
+  {
+    "name": "Moses",
+    "testament": "Old",
+    "gender": "male",
+    "description": "Led the Israelites out of Egypt and received the Ten Commandments on Mount Sinai",
+    "key_attributes": ["prophet", "leader", "lawgiver", "exodus", "ten_commandments", "burning_bush"],
+    "related_figures": ["Aaron", "Pharaoh", "Joshua"],
+    "famous_quote": "Let my people go"
+  },
+  {
+    "name": "Abraham",
+    "testament": "Old",
+    "gender": "male",
+    "description": "Father of many nations, made a covenant with God",
+    "key_attributes": ["patriarch", "covenant", "faith", "promised_land", "sacrifice"],
+    "related_figures": ["Sarah", "Isaac", "Lot"],
+    "famous_quote": "Here I am"
+  },
+  {
+    "name": "David",
+    "testament": "Old",
+    "gender": "male",
+    "description": "Shepherd boy who became king, slew Goliath, and wrote many Psalms",
+    "key_attributes": ["king", "warrior", "psalmist", "goliath", "shepherd", "musician"],
+    "related_figures": ["Goliath", "Saul", "Solomon", "Bathsheba"],
+    "famous_quote": "The Lord is my shepherd"
+  },
+  {
+    "name": "Jesus",
+    "testament": "New",
+    "gender": "male",
+    "description": "The Son of God, central figure of Christianity, performed miracles and rose from the dead",
+    "key_attributes": ["messiah", "savior", "teacher", "miracle_worker", "crucified", "resurrected"],
+    "related_figures": ["Mary", "Joseph", "Peter", "John"],
+    "famous_quote": "Love your neighbor as yourself"
+  },
+  {
+    "name": "Peter",
+    "testament": "New",
+    "gender": "male",
+    "description": "Fisherman who became a chief apostle and leader of the early church",
+    "key_attributes": ["apostle", "fisherman", "leader", "rock", "denied_jesus"],
+    "related_figures": ["Jesus", "John", "Andrew"],
+    "famous_quote": "You are the Messiah, the Son of the living God"
+  },
+  {
+    "name": "Paul",
+    "testament": "New",
+    "gender": "male",
+    "description": "Persecutor of Christians who converted and became a major apostle, wrote many epistles",
+    "key_attributes": ["apostle", "missionary", "writer", "converted", "persecutor", "tentmaker"],
+    "related_figures": ["Barnabas", "Timothy", "Silas"],
+    "famous_quote": "I can do all things through Christ who strengthens me"
+  },
+  {
+    "name": "Mary",
+    "testament": "New",
+    "gender": "female",
+    "description": "Virgin mother of Jesus, visited by the angel Gabriel",
+    "key_attributes": ["mother", "virgin", "blessed", "faithful"],
+    "related_figures": ["Jesus", "Joseph", "Elizabeth"],
+    "famous_quote": "My soul magnifies the Lord"
+  },
+  {
+    "name": "Noah",
+    "testament": "Old",
+    "gender": "male",
+    "description": "Built an ark to save his family and animals from the great flood",
+    "key_attributes": ["righteous", "ark_builder", "flood", "covenant", "animals"],
+    "related_figures": ["Shem", "Ham", "Japheth"],
+    "famous_quote": "I establish my covenant with you"
+  },
+  {
+    "name": "Solomon",
+    "testament": "Old",
+    "gender": "male",
+    "description": "Wisest king of Israel, built the first temple in Jerusalem",
+    "key_attributes": ["king", "wise", "temple_builder", "wealthy", "proverbs"],
+    "related_figures": ["David", "Bathsheba"],
+    "famous_quote": "There is nothing new under the sun"
+  },
+  {
+    "name": "Samson",
+    "testament": "Old",
+    "gender": "male",
+    "description": "Judge of Israel with supernatural strength in his hair",
+    "key_attributes": ["judge", "strong", "nazirite", "long_hair", "betrayed"],
+    "related_figures": ["Delilah", "Philistines"],
+    "famous_quote": "Let me die with the Philistines"
+  },
+  {
+    "name": "Jonah",
+    "testament": "Old",
+    "gender": "male",
+    "description": "Prophet who was swallowed by a great fish after fleeing from God",
+    "key_attributes": ["prophet", "reluctant", "fish", "nineveh", "mercy"],
+    "related_figures": [],
+    "famous_quote": "Salvation belongs to the Lord"
+  },
+  {
+    "name": "Daniel",
+    "testament": "Old",
+    "gender": "male",
+    "description": "Prophet who survived the lion's den and interpreted dreams",
+    "key_attributes": ["prophet", "interpreter", "lions_den", "faithful", "exile"],
+    "related_figures": ["Nebuchadnezzar", "Shadrach", "Meshach", "Abednego"],
+    "famous_quote": "My God sent his angel and shut the lions' mouths"
+  },
+  {
+    "name": "Esther",
+    "testament": "Old",
+    "gender": "female",
+    "description": "Jewish queen who saved her people from destruction in Persia",
+    "key_attributes": ["queen", "brave", "jewish", "fasting", "purim"],
+    "related_figures": ["Mordecai", "Haman", "King Xerxes"],
+    "famous_quote": "If I perish, I perish"
+  },
+  {
+    "name": "Ruth",
+    "testament": "Old",
+    "gender": "female",
+    "description": "Moabite woman who showed great loyalty to her mother-in-law",
+    "key_attributes": ["loyal", "moabite", "gleaner", "faithful", "ancestor_of_david"],
+    "related_figures": ["Naomi", "Boaz"],
+    "famous_quote": "Where you go I will go"
+  },
+  {
+    "name": "Job",
+    "testament": "Old",
+    "gender": "male",
+    "description": "Righteous man who suffered greatly but remained faithful to God",
+    "key_attributes": ["righteous", "suffering", "patient", "tested", "faithful"],
+    "related_figures": [],
+    "famous_quote": "The Lord gave, and the Lord has taken away"
+  },
+  {
+    "name": "John the Baptist",
+    "testament": "New",
+    "gender": "male",
+    "description": "Prophet who baptized Jesus and prepared the way for his ministry",
+    "key_attributes": ["prophet", "baptizer", "wilderness", "locust_eater", "beheaded"],
+    "related_figures": ["Jesus", "Herod", "Elizabeth"],
+    "famous_quote": "Behold, the Lamb of God"
+  },
+  {
+    "name": "Judas Iscariot",
+    "testament": "New",
+    "gender": "male",
+    "description": "Apostle who betrayed Jesus for thirty pieces of silver",
+    "key_attributes": ["apostle", "betrayer", "traitor", "treasurer", "suicide"],
+    "related_figures": ["Jesus"],
+    "famous_quote": "What will you give me if I deliver him to you?"
+  },
+  {
+    "name": "Adam",
+    "testament": "Old",
+    "gender": "male",
+    "description": "First man created by God in the Garden of Eden",
+    "key_attributes": ["first_man", "garden_of_eden", "created", "fall", "sin"],
+    "related_figures": ["Eve", "Cain", "Abel"],
+    "famous_quote": "Bone of my bones and flesh of my flesh"
+  },
+  {
+    "name": "Eve",
+    "testament": "Old",
+    "gender": "female",
+    "description": "First woman, created from Adam's rib",
+    "key_attributes": ["first_woman", "garden_of_eden", "tempted", "fall", "mother_of_all"],
+    "related_figures": ["Adam", "Serpent"],
+    "famous_quote": "The serpent deceived me"
+  },
+  {
+    "name": "Joseph",
+    "testament": "Old",
+    "gender": "male",
+    "description": "Son of Jacob, sold into slavery but became ruler of Egypt",
+    "key_attributes": ["dreamer", "betrayed", "egypt", "ruler", "colorful_coat"],
+    "related_figures": ["Jacob", "Brothers", "Pharaoh", "Potiphar"],
+    "famous_quote": "You meant evil against me, but God meant it for good"
+  },
+  {
+    "name": "Elijah",
+    "testament": "Old",
+    "gender": "male",
+    "description": "Prophet who called down fire from heaven and was taken up in a whirlwind",
+    "key_attributes": ["prophet", "miracle_worker", "fire_from_heaven", "whirlwind", "ravens"],
+    "related_figures": ["Elisha", "Ahab", "Jezebel"],
+    "famous_quote": "How long will you waver between two opinions?"
+  },
+  {
+    "name": "Sarah",
+    "testament": "Old",
+    "gender": "female",
+    "description": "Wife of Abraham who gave birth to Isaac in her old age",
+    "key_attributes": ["matriarch", "faithful", "old_age_mother", "beautiful", "laughter"],
+    "related_figures": ["Abraham", "Isaac", "Hagar"],
+    "famous_quote": "God has made laughter for me"
+  },
+  {
+    "name": "Jacob",
+    "testament": "Old",
+    "gender": "male",
+    "description": "Son of Isaac who wrestled with God and became Israel",
+    "key_attributes": ["patriarch", "wrestler", "deceiver", "twelve_sons", "israel"],
+    "related_figures": ["Esau", "Rachel", "Leah", "Laban"],
+    "famous_quote": "I will not let you go unless you bless me"
+  },
+  {
+    "name": "Joshua",
+    "testament": "Old",
+    "gender": "male",
+    "description": "Moses' successor who led Israel into the Promised Land",
+    "key_attributes": ["leader", "warrior", "jericho", "conquest", "faithful"],
+    "related_figures": ["Moses", "Caleb"],
+    "famous_quote": "Choose this day whom you will serve"
+  },
+  {
+    "name": "John",
+    "testament": "New",
+    "gender": "male",
+    "description": "The beloved apostle who wrote the Gospel of John and Revelation",
+    "key_attributes": ["apostle", "beloved", "writer", "fisherman", "exile"],
+    "related_figures": ["Jesus", "Peter", "James"],
+    "famous_quote": "God is love"
+  },
+  {
+    "name": "Matthew",
+    "testament": "New",
+    "gender": "male",
+    "description": "Tax collector who became an apostle and wrote the first Gospel",
+    "key_attributes": ["apostle", "tax_collector", "writer", "gospel"],
+    "related_figures": ["Jesus"],
+    "famous_quote": "Follow me"
+  },
+  {
+    "name": "Martha",
+    "testament": "New",
+    "gender": "female",
+    "description": "Friend of Jesus known for her hospitality and service",
+    "key_attributes": ["servant", "hospitable", "practical", "sister"],
+    "related_figures": ["Mary", "Lazarus", "Jesus"],
+    "famous_quote": "Lord, do you not care that my sister has left me to serve alone?"
+  },
+  {
+    "name": "Mary Magdalene",
+    "testament": "New",
+    "gender": "female",
+    "description": "Follower of Jesus who witnessed his crucifixion and resurrection",
+    "key_attributes": ["follower", "witness", "delivered", "first_witness_resurrection"],
+    "related_figures": ["Jesus"],
+    "famous_quote": "I have seen the Lord"
+  },
+  {
+    "name": "Lazarus",
+    "testament": "New",
+    "gender": "male",
+    "description": "Friend of Jesus who was raised from the dead after four days",
+    "key_attributes": ["raised_from_dead", "friend_of_jesus", "miracle"],
+    "related_figures": ["Jesus", "Martha", "Mary"],
+    "famous_quote": ""
+  },
+  {
+    "name": "Gideon",
+    "testament": "Old",
+    "gender": "male",
+    "description": "Judge who defeated the Midianites with only 300 men",
+    "key_attributes": ["judge", "warrior", "fleece", "small_army", "faithful"],
+    "related_figures": ["Midianites"],
+    "famous_quote": "The sword of the Lord and of Gideon"
+  },
+  {
+    "name": "Deborah",
+    "testament": "Old",
+    "gender": "female",
+    "description": "Prophetess and judge who led Israel to victory",
+    "key_attributes": ["prophetess", "judge", "leader", "warrior", "wise"],
+    "related_figures": ["Barak"],
+    "famous_quote": "I will go with you"
+  },
+  {
+    "name": "Isaiah",
+    "testament": "Old",
+    "gender": "male",
+    "description": "Major prophet who prophesied about the coming Messiah",
+    "key_attributes": ["prophet", "writer", "messianic_prophecies", "vision"],
+    "related_figures": [],
+    "famous_quote": "Here am I! Send me"
+  },
+  {
+    "name": "Jeremiah",
+    "testament": "Old",
+    "gender": "male",
+    "description": "Weeping prophet who warned of Jerusalem's destruction",
+    "key_attributes": ["prophet", "weeping", "persecution", "warnings"],
+    "related_figures": [],
+    "famous_quote": "I know the plans I have for you"
+  },
+  {
+    "name": "Thomas",
+    "testament": "New",
+    "gender": "male",
+    "description": "Apostle known as 'Doubting Thomas' who needed proof of Jesus' resurrection",
+    "key_attributes": ["apostle", "doubter", "proof_seeker", "faithful"],
+    "related_figures": ["Jesus"],
+    "famous_quote": "My Lord and my God"
+  },
+  {
+    "name": "Stephen",
+    "testament": "New",
+    "gender": "male",
+    "description": "First Christian martyr, stoned to death for his faith",
+    "key_attributes": ["deacon", "martyr", "stoned", "faithful", "first_martyr"],
+    "related_figures": ["Saul"],
+    "famous_quote": "Lord, do not hold this sin against them"
+  }
+]
